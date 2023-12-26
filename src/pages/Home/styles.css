@@ -27,6 +27,7 @@ input {
     background: transparent;
     font-size: 18px;
     padding: 10px;
+    color: #ffffff;
 }
 
 button {
@@ -37,6 +38,7 @@ button {
     color: #ffffff;
     font-size: 18px;
     padding: 10px;
+    cursor: pointer;
 }
 
 .perfil {
